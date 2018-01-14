@@ -1,0 +1,8 @@
+html{ background-color: #000000;}
+body{
+color: #FFFFFF; 
+background-color: #000000; 
+}
+a{ color: d1d1d1; text-decoration: none;}
+*{font-size: 15px;}
+a:hover { color: 121212; background-color:#CCC}

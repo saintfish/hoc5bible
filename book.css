@@ -1,0 +1,16 @@
+﻿html{ background-color: #000000;}
+body{
+color: #FFFFFF; 
+background-color: #000000; 
+background-image:url('bg.jpg'); 
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+}
+*{ line-height: 140%; }
+a{ color: yellow; font-size: 67%; text-decoration: none;}
+h2, hr, center {avisibility: hidden; }
+*{font: 64pt 'Microsoft JhengHei' , 'Microsoft YaHei', 'MS Gothic', SimHei;}
+body, table{ padding: 5px 10px 0px 10px; margin: 0px 0px 0px 0px;}
+
+
